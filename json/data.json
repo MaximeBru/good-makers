@@ -1,0 +1,86 @@
+[
+	{
+		"id": 0,
+		"title": "Roero Monfriggio DOCG 2011, Chiesa", 
+		"cover": "img/Roero-DOCG-Monfriggio-2011.png", 
+		"coverDesc": "Roero Monfriggio DOCG 2011, Chiesa - vin rouge biologique", 
+		"description": "Une bouteille riche en charme traditionnel du raisin Nebbiolo, fort de son âme roerine des vignes Monfriggio de S. Stefano Roero. ",
+		"robe": "Couleur brillante. Robe rubis pâle aux visibles reflets grenades",
+		"parfum": "Senteurs de violette et fruits rouges, aux notes délicates de rose et de réglisse.",
+		"gout": "L'élégante force du tannin s'équilibre avec la soyeuse buvabilité.",
+		"bouteille": "18,00€/bouteille (0,75l)",
+		"prix": "18"
+	},
+	{
+		"id": 1,
+		"title": "Roero Arneis DOCG 2015, Chiesa", 
+		"cover": "img/Roero-DOCG-Arneis-2014.png", 
+		"coverDesc": "Roero Arneis DOCG 2015, Chiesa - vin blanc biologique", 
+		"description": "Idéal en apéritif mais aussi en accompagnement de plats à base de poisson, des pâtes ou des viandes blanches.",
+		"robe": "Intriguant grâce à sa couleur jaune paille intense et brillante.",
+		"parfum": "Des parfums floraux de fruits à pâte jaune, à la rencontre d’agréables sensations citronnées.",
+		"gout": "Le goût est fin, savoureux et rafraîchissant, il a aussi du corps et une très bonne longueur finale en bouche.",
+		"bouteille": "8,00€/bouteille (0,75l)",
+		"prix": "8"
+	},
+	{
+		"id": 2,
+		"title": "Sciarmat VS Extra Dry, Cascina Albano", 
+		"cover": "img/Sciarmat-Extra-Dry.png", 
+		"coverDesc": "Sciarmat VS Extra Dry, Cascina Albano - vin petillant biologique", 
+		"description": "Ces fines bulles des raisins Arneis de Langa donnent la bonne humeur dès qu'on les verse : riche en structure et extrêmement agréables.",
+		"robe": "Jaune paille aux reflets verts. De fines bulles et une joyeuse mousse caressent le verre.",
+		"parfum": "Senteurs de tilleul, fruits frais, fleurs d'oranger et biscuits.",
+		"gout": "Il est moelleux et rond en bouche, à la juste fraîcheur qui permet d'en percevoir les arômes sans fatiguer le palais avec une excessive douceur.",
+		"bouteille": "10,00€/bouteille (0,75l)",
+		"prix": "10"
+	},
+	{
+		"id": 3,
+		"title": "Barbera d’Alba DOC 2015, Cascina Albano", 
+		"cover": "img/Barbera-Alba.jpg", 
+		"coverDesc": "Barbera d’Alba DOC 2015, Cascina Albano - vin rouge biologique", 
+		"description": " Vin gastronomique qui s’accompagne agréablement à des plats simples, mais consistants et un bon appétit !",
+		"robe": "Robe rubis aux reflets violacés, brillante, ce vin est invitant et juteux, même à la vue.",
+		"parfum": "Parfum de fruits rouges mûres : cerises, prunes de Java et prunes juteuses.",
+		"gout": "En bouche il est nerveux et acide à la matière riche, croquante, discrète, qui satisfait et invite à une autre gorgée.",
+		"bouteille": "9,00€/bouteille (0,75l)",
+		"prix": "9"
+	},
+	{
+		"id": 4,
+		"title": "Rosa dei Venti Lambrusco dell’Emilie IGP", 
+		"cover": "img/Rosa-Dei-Venti.png", 
+		"coverDesc": "Rosa dei Venti Lambrusco dell’Emilie IGP, Denny Bini - vin rosé biologique", 
+		"description": "C'est une bouteille extrêmement polyvalente en ce qui concerne les accompagnements, idéale pour une journée d'été à la campagne.",
+		"robe": "Rosé aux tonalités délicates, à la mousse épaisse et aux fines bulles, vivaces et persistantes.",
+		"parfum": "Roses rouges, fruits rouges et sous-bois enrichis par la maturation à contact avec les levains.",
+		"gout": "Tannins ronds et un final savoureux/prononcé enrichis par de vivaces fines bulles.",
+		"bouteille": "11,00€/bouteille (0,75l)",
+		"prix": "11"
+	},
+	{
+		"id": 5,
+		"title": "Olio EVO Passerello, bidon de 5 litres", 
+		"cover": "img/olio5l.jpg", 
+		"coverDesc": "Olio EVO, bidon de 5 litres - huile d'olive extra-vierge", 
+		"description": "Idéale pour l'assaisonnement à cru et pour enrichir les plats cuits. Elle laisse en bouche une légère note piquante qui accentue les parfums relevés au nez.",
+		"robe": "Robe jaune doré aux visibles reflets verts intenses.",
+		"parfum": "Senteur méditerranéenne : artichaut, feuille de tomate et agréables notes de pignons et pistaches.",
+		"gout": "Délicate et envoûtante au palais, presque sucrée, à la légère et agréable amertume.",
+		"bouteille": "65,00€/ bidon (5l)",
+		"prix": "65"
+	},
+	{
+		"id": 6,
+		"title": "Olio EVO Passerello, bouteille de 0,75 litre", 
+		"cover": "img/olio1l.jpg", 
+		"coverDesc": "Olio EVO, bouteille de 0,75 litre - huile d'olive extra-vierge", 
+		"description": "Idéale pour l'assaisonnement à cru et pour enrichir les plats cuits. Elle laisse en bouche une légère note piquante qui accentue les parfums relevés au nez.",
+		"robe": "Robe jaune doré aux visibles reflets verts intenses.",
+		"parfum": "Senteur méditerranéenne : artichaut, feuille de tomate et agréables notes de pignons et pistaches.",
+		"gout": "Délicate et envoûtante au palais, presque sucrée, à la légère et agréable amertume.",
+		"bouteille": "13,00€/bouteille (0,75l)",
+		"prix": "13"
+	}
+]

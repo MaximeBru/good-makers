@@ -1,0 +1,221 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat:700);
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300);
+
+* {
+	margin: 0;
+	padding: 0;
+
+	/* Limiter border et padding à la taille de la balise */
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+html{
+	font-size: 62.5%;
+}
+
+body {
+	font-size: 1.5rem;
+	font-family: 'Roboto', sans-serif;
+}
+
+a {
+	text-decoration: none;
+}
+
+h1, h2, h3 {
+	font-family: 'Montserrat', sans-serif;
+}
+
+
+h1 em {
+	font-style: normal;
+	color: #a70535;
+}
+
+main {
+	padding: 1rem;
+	max-width: 80rem;
+	margin:auto;
+}
+
+/*
+Style header
+*/
+header {
+	background-color: #1a2b3d;
+	text-align: center;
+	color: white;
+}
+
+header img, footer img {
+	width: 15rem;
+	margin: 2rem 0;
+}
+
+header nav {
+	display: none;
+}
+
+header section {
+    background-image: url('../img/img-home-03-small.jpg');
+    background-position: center;
+    padding: 2rem;
+}
+
+header p {
+    background-color: #1a2b3d;
+    font-size: 1.2rem;
+    padding: 1.5rem 1rem;
+    margin-top: 1rem;
+}
+
+header p ~ em, footer p {
+	font-size: .7rem;
+	text-transform: uppercase;
+}
+
+/*
+Style nav
+*/
+nav a {
+    color: white;
+    border: .1rem solid white;
+    padding: .5rem 1rem;
+    font-size: 1.1rem;
+    opacity: .5;
+}
+
+/*
+Style footer
+*/
+footer {
+	background-color: #1a2b3d;
+	padding-top: 1rem;
+	text-align: center;
+}
+
+footer p {
+	background-color: #a70535;
+	padding: .5rem 1rem;
+	margin-top: 2rem;
+	color: #1a2b3d;
+}
+
+footer img {
+	margin-bottom: 0;
+}
+
+/*
+Style Form
+*/
+section > h2 {
+    background-color: #a70535;
+    color: white;
+    font-size: 1.2rem;
+    text-transform: uppercase;
+    padding: .5rem 1rem;
+    margin-bottom: 1rem;
+}
+
+#bottleList {
+	margin-bottom: 1rem;
+}
+
+form h2 {
+    font-size: 1.2rem;
+    text-transform: uppercase;
+}
+ form h2 span{
+ 	color: #a70535;
+ 	font-size: .5em;
+ }
+
+input:not([type="checkbox"]) {
+    width: 100%;
+    padding: .5rem 0;
+    margin-bottom: 1.5rem;
+    text-indent: .5rem;
+    font-size: 1.3rem;
+}
+
+input[type="submit"]{
+	text-indent: 0;
+	font-family: 'Montserrat', sans-serif;
+	text-transform: uppercase;
+	color: white;
+	background-color: #a70535;
+	border: none;
+	margin-top: 1rem
+}
+
+form p:last-of-type {
+	font-size: 1.1rem;
+}
+
+#bottleList div {
+	margin-bottom: 1rem;
+	position: relative;
+}
+
+#bottleList div span:last-of-type {
+	position: absolute;
+	right: 0;
+}
+
+/*
+Style présentation
+*/
+#presentation article {
+    position: relative;
+    text-align: center;
+    padding-top: 20rem;
+    margin-bottom: 6rem;
+}
+
+#presentation img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    height: 100%;
+    z-index: 0;
+}
+
+#presentation h2, #presentation p, #presentation em {
+	position: relative;
+	z-index: 1;
+}
+
+#presentation h2 {
+    background: #1a2b3d;
+    color: white;
+    font-size: 1.5rem;
+    padding: 1rem;
+}
+
+#presentation p {
+    background-color: rgba(255, 255, 255, .8);
+    padding: 1rem 0 2rem 0;
+}
+
+#presentation em {
+	color: #a70535;
+}
+
+@media screen and (min-width: 520px){
+
+	#presentation article {
+		display: inline-block;
+		vertical-align: top;
+		width: 45%;
+		margin: 0 2rem 0 0;
+	}
+
+	#presentation article:nth-child(2n+2){
+		margin: 0 0 0 2rem;
+	}
+
+}
